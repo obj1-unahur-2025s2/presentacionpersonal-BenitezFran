@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Franco Nicolas Benitez
+- Vivo en Moreno, zona oeste
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Este es mi segundo contacto con github
+- Tengo un perro que se llama Adam
